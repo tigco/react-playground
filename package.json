@@ -13,9 +13,9 @@
   "author": "Tigran Mirzoev",
   "license": "MIT",
   "devDependencies": {
-    "babel-core": "^6.23.1",
-    "babel-eslint": "^8.2.2",
-    "babel-loader": "^7.1.2",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "babel-loader": "^7.1.4",
     "babel-preset-react": "^6.23.0",
     "babel-preset-stage-2": "^6.22.0",
     "chai": "^4.1.2",
@@ -24,20 +24,20 @@
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-loader": "^2.0.0",
-    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.7.0",
     "ignore-styles": "^5.0.1",
-    "jsdom": "^11.6.2",
-    "mocha": "^5.0.5",
+    "jsdom": "^11.10.0",
+    "mocha": "^5.1.1",
     "react-hot-loader": "^3.1.3",
-    "webpack": "^4.0.1",
-    "webpack-cli": "^2.0.10",
-    "webpack-dev-server": "^3.1.0"
+    "webpack": "^4.8.1",
+    "webpack-cli": "^2.1.3",
+    "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
     "babel-preset-env": "^1.6.1",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
   }
 }
