@@ -1,9 +1,10 @@
-import { expect } from 'chai';
+import { assert, expect } from 'chai';
 import { mount, render, shallow, configure} from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
 
 configure({ adapter: new Adapter() });
 
+global.assert = assert;
 global.expect = expect;
 
 global.mount = mount;
