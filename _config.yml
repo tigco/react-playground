@@ -1,1 +1,3 @@
+# This file is only necessary for GitHub pages support. It should be removed in most
+# new projects using react-playground as a starting point for development.
 theme: jekyll-theme-cayman

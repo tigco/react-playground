@@ -12,16 +12,14 @@
 <!-- HitCount badge disabled for now. To get one visit https://hits.dwyl.com
 [![HitCount](http://hits.dwyl.io/tigco/react-playground.svg)](http://hits.dwyl.io/tigco/react-playground) -->
 
-React development environment with webpack module bundler, babel compiler, eslint, and chai and mocha for testing. I often use this when I start a new React project.
+React development environment with webpack module bundler, babel compiler, eslint linter, and chai and mocha for testing. I often use this when I start a new React project.
 
 ## Features
 
 * React 16
 * Webpack 4
-* Babel
-* Staging ES Next Features
-* ESLint
-* AirBnB's ESLint rules, including ECMAScript 6+ and React
+* Babel with ES Stage 2 Features and React
+* ESLint with AirBnB's linting rules, including ECMAScript 6+ and React
 * Hot Module Replacement
 
 ## Installation
